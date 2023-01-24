@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/MegaMart-i-/static/css/main.49d57a97.css",
+    "main.js": "/MegaMart-i-/static/js/main.9bad16f8.js",
+    "static/js/787.8707ef24.chunk.js": "/MegaMart-i-/static/js/787.8707ef24.chunk.js",
+    "static/media/circ1.png": "/MegaMart-i-/static/media/circ1.ed80b7230003335e0ec5.png",
+    "static/media/hero.png": "/MegaMart-i-/static/media/hero.1e56774ea94adc8ff6c2.png",
+    "static/media/promo2.png": "/MegaMart-i-/static/media/promo2.aaac89660250584a21c4.png",
+    "static/media/circ2.png": "/MegaMart-i-/static/media/circ2.9035aba33d4605c10d62.png",
+    "static/media/promo3.png": "/MegaMart-i-/static/media/promo3.76213b659a4e6a61fea6.png",
+    "static/media/promo1.png": "/MegaMart-i-/static/media/promo1.3d9be6be383d8e23e4a8.png",
+    "static/media/ds3.png": "/MegaMart-i-/static/media/ds3.4b66b801002f35de2eda.png",
+    "static/media/ds1.png": "/MegaMart-i-/static/media/ds1.2bb5acc1090a9f1254ee.png",
+    "static/media/ds2.png": "/MegaMart-i-/static/media/ds2.85706d6e0d00ff8edb90.png",
+    "static/media/prod3.png": "/MegaMart-i-/static/media/prod3.82661d18397485a01553.png",
+    "static/media/ds4.png": "/MegaMart-i-/static/media/ds4.52088b6b21ac96a2ca3c.png",
+    "static/media/prod5.png": "/MegaMart-i-/static/media/prod5.48c0b7eb7b8a781fe31b.png",
+    "static/media/ds5.png": "/MegaMart-i-/static/media/ds5.adc7ed0a9070c882fa1f.png",
+    "static/media/prod4.png": "/MegaMart-i-/static/media/prod4.338ad1782733db404d19.png",
+    "static/media/ds6.png": "/MegaMart-i-/static/media/ds6.1e18d5e4b3f098fbbae6.png",
+    "static/media/prod1.png": "/MegaMart-i-/static/media/prod1.5755598017b169d96cf8.png",
+    "static/media/prod2.png": "/MegaMart-i-/static/media/prod2.7a39974bcc535b76f333.png",
+    "static/media/circ6.png": "/MegaMart-i-/static/media/circ6.6e5d65ff4c95a43cfa15.png",
+    "static/media/circ5.png": "/MegaMart-i-/static/media/circ5.1e8f6d8f832cac84ca8b.png",
+    "static/media/circ3.png": "/MegaMart-i-/static/media/circ3.69a5a4520fb4d7e9f7c2.png",
+    "index.html": "/MegaMart-i-/index.html",
+    "main.49d57a97.css.map": "/MegaMart-i-/static/css/main.49d57a97.css.map",
+    "main.9bad16f8.js.map": "/MegaMart-i-/static/js/main.9bad16f8.js.map",
+    "787.8707ef24.chunk.js.map": "/MegaMart-i-/static/js/787.8707ef24.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49d57a97.css",
+    "static/js/main.9bad16f8.js"
+  ]
+}
