@@ -1,0 +1,42 @@
+export const productData = [
+    {
+        id: 1,
+        name: 'Galaxy S22 Ultra',
+        img: require('../assets/img/prod1.png'),
+        disc: 32999,
+        price: 74999,
+        promo: 32999,
+    },
+    {
+        id: 2,
+        name: 'Galaxy M13 (4GB | 64 GB )',
+        img: require('../assets/img/prod2.png'),
+        disc: 10499,
+        price: 14999,
+        promo: 4500,
+    },
+    {
+        id: 3,
+        name: 'Galaxy M33 (4GB | 64 GB )',
+        img: require('../assets/img/prod3.png'),
+        disc: 16999,
+        price: 24999,
+        promo: 8000,
+    },
+    {
+        id: 4,
+        name: 'Galaxy M53 (4GB | 64 GB )',
+        img: require('../assets/img/prod4.png'),
+        disc: 31999,
+        price: 40999,
+        promo: 9000,
+    },
+    {
+        id: 5,
+        name: 'Galaxy S22 Ultra',
+        img: require('../assets/img/prod5.png'),
+        disc: 67999,
+        price: 85999,
+        promo: 18000,
+    },
+]
